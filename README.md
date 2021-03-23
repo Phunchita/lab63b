@@ -9,3 +9,5 @@
 * [ทำความรู้จัก ESP01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01.html)
 * [วีดีโอการทดลองแลป1](https://youtu.be/NLIUsWLEpmg)
 ## วิธีทำการทดลอง
+1.ต่อ
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
