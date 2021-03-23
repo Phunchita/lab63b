@@ -11,5 +11,4 @@
 ## วิธีทำการทดลอง
 1. ต่อตัวหรยไมกสำบไ
 2. รันตามรูป
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
