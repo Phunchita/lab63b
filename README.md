@@ -6,4 +6,4 @@
 2.ยูเอสบี
 3.ตัวแปลง
 ## ศึกษาข้อมูลเพิ่มเติม
-1.[platformio] (https://docs.platformio.org/en/latest/boards/espressif8266/esp01.html)
+[platformio](https://docs.platformio.org/en/latest/boards/espressif8266/esp01.html)
