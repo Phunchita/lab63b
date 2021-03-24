@@ -14,8 +14,8 @@
 [ตัวอย่างโปรแกรมที่3](https://github.com/choompol-boonmee/lab63b/tree/master/examples/03_Output-Port)
 ## วิธีการทำการทดลอง 
 1. ต่อ USB to serial port เข้ากับอแดปเตอร์พอร์ต0และ1 และ ไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกันดังภาพด้านขวา![image](https://user-images.githubusercontent.com/80879365/112286578-09249780-8cbe-11eb-9a96-8933e3487f1f.png)
-2. ดูเนื้อหาโปรแกรมได้ด้วยคำสั่ง `src/main.cpp` จะเห็นได้ว่า เลข0 คือค่าlow และเลข1 คือค่าhigh ดังรูป![image](https://user-images.githubusercontent.com/80879365/112289031-805b2b00-8cc0-11eb-88c7-3d6a572e90b2.png)
-4. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 03_Output-Port`
+2. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 03_Output-Port`
+3. ดูเนื้อหาโปรแกรมได้ด้วยคำสั่ง `src/main.cpp` จะเห็นได้ว่า เลข0 คือค่าlow และเลข1 คือค่าhigh ดังรูป![image](https://user-images.githubusercontent.com/80879365/112289031-805b2b00-8cc0-11eb-88c7-3d6a572e90b2.png)
 5. อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112286846-56086e00-8cbe-11eb-9af3-09c6f52dbcc0.png)
 6. เมื่อโปรแกรมกำลังรันให้กดปุ่มอัปโหลด สีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต
 
