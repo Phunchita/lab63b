@@ -10,4 +10,7 @@
 ## ศึกษาข้อมูลเบื้องต้น 
 * [วีดีโอการทดลองแลป5](https://www.youtube.com/watch?v=VX-QNQcO-b4)
 * [ตัวอย่างโปรแกรมที่5](https://github.com/choompol-boonmee/lab63b/tree/master/examples/05_Wifi-Web-Server)
-## 
+## วิธีการทดลอง
+1.ต่อ USB to serial port เข้ากับคอมพิวเตอร์เข้าด้วยกันดังภาพด้านขวา ![image](https://user-images.githubusercontent.com/80879365/112303635-1a29d480-8ccf-11eb-94d9-8bb27e18a420.png)
+2.เลือกชื่อไวไฟและใส่รหัส![image](https://user-images.githubusercontent.com/80879365/112304289-e56a4d00-8ccf-11eb-9b4b-f388421bf71f.png)
+3.อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112304289-e56a4d00-8ccf-11eb-9b4b-f388421bf71f.png)
