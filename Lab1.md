@@ -13,10 +13,10 @@
 * [ตัวอย่างโปรแกรมที่1](https://github.com/choompol-boonmee/lab63b/tree/master/examples/01_Serial-Monitor)
 ## วิธีการทำการทดลอง
 1. ต่อ USB to serial port เข้ากับไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกัน ![image](https://user-images.githubusercontent.com/80879365/112276336-328bf600-8cb3-11eb-8958-5ffa2a7543dd.png)
-3. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 01_Serial_monitor`
-4. อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112276666-94e4f680-8cb3-11eb-8353-9a8ad3127086.png)
-6. เมื่อโปรแกรมกำลังรันให้กดปุ่มอัปโหลด สีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต ![image](https://user-images.githubusercontent.com/80879365/112276796-b3e38880-8cb3-11eb-86f2-186eb7d8e4ae.png)
-7. รอจนกระทั่งรันโปรแกรมจบแล้ว ใช้คำสั่ง `pio device momitor` เพื่อดูผลผ่านคอมพิวเตอร์![image](https://user-images.githubusercontent.com/80879365/112276947-d5447480-8cb3-11eb-9a18-131f6c3e24d1.png)
+2. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 01_Serial_monitor`
+3. อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112276666-94e4f680-8cb3-11eb-8353-9a8ad3127086.png)
+4. เมื่อโปรแกรมกำลังรันให้กดปุ่มอัปโหลด สีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต ![image](https://user-images.githubusercontent.com/80879365/112276796-b3e38880-8cb3-11eb-86f2-186eb7d8e4ae.png)
+5. รอจนกระทั่งรันโปรแกรมจบแล้ว ใช้คำสั่ง `pio device momitor` เพื่อดูผลผ่านคอมพิวเตอร์![image](https://user-images.githubusercontent.com/80879365/112276947-d5447480-8cb3-11eb-9a18-131f6c3e24d1.png)
 ## การบันทึกผลการทดลอง
 ผลที่แสดงขึ้นในจอคอมพิวเตอร์ทุกๆวินาทีจะออกมาเป็นตัวเลขที่นับเพิ่มทีละหนึ่งไปเรื่อยๆดังรูป![image](https://user-images.githubusercontent.com/80879365/112277188-12106b80-8cb4-11eb-84c3-3af658333aa0.png)
 ## อภิปรายผลการทดลอง
