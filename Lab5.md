@@ -8,6 +8,6 @@
 3. อุปกรณ์ต่อพ่วง USB
 4. อุปกรณ์ที่ป้อนข้อมูลเข้าไมโครคอนโทรเลอร์ เช่นคอมพิวเตอร์
 ## ศึกษาข้อมูลเบื้องต้น 
-[วีดีโอการทดลองแลป5](https://www.youtube.com/watch?v=VX-QNQcO-b4)
-[ตัวอย่างโปรแกรมที่5](https://github.com/choompol-boonmee/lab63b/tree/master/examples/05_Wifi-Web-Server)
+* [วีดีโอการทดลองแลป5](https://www.youtube.com/watch?v=VX-QNQcO-b4)
+* [ตัวอย่างโปรแกรมที่5](https://github.com/choompol-boonmee/lab63b/tree/master/examples/05_Wifi-Web-Server)
 ## 
