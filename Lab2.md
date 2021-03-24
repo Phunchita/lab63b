@@ -12,10 +12,11 @@
 * [ตัวอย่างโปรแกรมที่2](https://github.com/choompol-boonmee/lab63b/tree/master/examples/02_Scan-Wifi)
 ## วิธีการทำการทดลอง 
 1. ต่อ USB to serial port เข้ากับไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกัน![image](https://user-images.githubusercontent.com/80879365/112282320-94e7f500-8cb9-11eb-9c84-cc9efe8ee3af.png)
-2. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 02_Scan-Wifi`
-3. อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112283030-4850e980-8cba-11eb-83cc-97dc8df5c98f.png)
-4. เมื่อโปรแกรมกำลังรันให้กดปุ่มอัปโหลด สีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต ![image](https://user-images.githubusercontent.com/80879365/112283166-6e768980-8cba-11eb-8257-929b7216d540.png)
-5.รอจนกระทั่งรันโปรแกรมจบแล้ว ใช้คำสั่ง `pio device momitor` เพื่อดูผลผ่านคอมพิวเตอร์![image](https://user-images.githubusercontent.com/80879365/112283377-aa115380-8cba-11eb-9699-4184390a869b.png)
+2. ดูเนื้อหาโปรแกรมได้ด้วยคำสั่ง `src/main.md` 
+3. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 02_Scan-Wifi`
+4. อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112283030-4850e980-8cba-11eb-83cc-97dc8df5c98f.png)
+5. เมื่อโปรแกรมกำลังรันให้กดปุ่มอัปโหลด สีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต ![image](https://user-images.githubusercontent.com/80879365/112283166-6e768980-8cba-11eb-8257-929b7216d540.png)
+6.รอจนกระทั่งรันโปรแกรมจบแล้ว ใช้คำสั่ง `pio device momitor` เพื่อดูผลผ่านคอมพิวเตอร์![image](https://user-images.githubusercontent.com/80879365/112283377-aa115380-8cba-11eb-9699-4184390a869b.png)
 ## การบันทึกผลการทดลอง 
 ผลที่แสดงค้นพบไวไฟดังนี้
 ![image](https://user-images.githubusercontent.com/80879365/112283539-d4631100-8cba-11eb-9ac4-7913e8be0336.png)
