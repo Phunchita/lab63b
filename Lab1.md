@@ -12,7 +12,7 @@
 * [วีดีโอการทดลองแลป1](https://youtu.be/NLIUsWLEpmg)
 * [ตัวอย่างโปรแกรม](https://github.com/choompol-boonmee/lab63b/tree/master/examples)
 ## วิธีการทำการทดลอง
-1. ต่อ USB to serial port เข้ากับไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกัน ![Image of 112275401-26ebff80-8cb2-11eb-847f-60b67865fc53]https://user-images.githubusercontent.com/80879365/112275401-26ebff80-8cb2-11eb-847f-60b67865fc53.png
+1. ต่อ USB to serial port เข้ากับไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกัน ![image](https://user-images.githubusercontent.com/80879365/112276336-328bf600-8cb3-11eb-8958-5ffa2a7543dd.png)
 3. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 01_Serial_monitor`
 4. อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`
 5. เมื่อโปรแกรมกำลังรันให้กดปุ่มสีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต
