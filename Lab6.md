@@ -11,3 +11,5 @@
 * [วีดีโอการทดลองแลป6](https://www.youtube.com/watch?v=T26DVHePlTs&t=1s)
 * [ตัวอย่างโปรแกรมที่6](https://github.com/choompol-boonmee/lab63b/tree/master/examples/06_Wifi-AP-Web-Server)
 ## วิธีการทดลอง
+1. ต่อ USB to serial port เข้ากับคอมพิวเตอร์เข้าด้วยกันดังภาพด้านขวา![image](https://user-images.githubusercontent.com/80879365/112306560-82c68080-8cd2-11eb-91f0-52f94d44f75e.png)
+2. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 06_Wifi-AP-Web-Server`
