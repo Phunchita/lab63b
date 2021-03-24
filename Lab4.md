@@ -10,8 +10,8 @@
 5. อะแดปเตอร์ ต่อ พอร์ต0และ1 แสดงผลเป็นLED 0 ขาว 1 เหลือง
 6. เซนเซอร์แสงกับตัวต้านทาน
 ## ศึกษาข้อมูลเบื้องต้น 
-[วีดีโอการทดลองแลป4](https://www.youtube.com/watch?v=nFqoZT26U5k)
-[ตัวอย่างโปรแกรมที่4](https://github.com/choompol-boonmee/lab63b/tree/master/examples/04_Input-Port)
+* [วีดีโอการทดลองแลป4](https://www.youtube.com/watch?v=nFqoZT26U5k)
+* [ตัวอย่างโปรแกรมที่4](https://github.com/choompol-boonmee/lab63b/tree/master/examples/04_Input-Port)
 ## วิธีการทำการทดลอง
 1. ต่อ USB to serial port เข้ากับอแดปเตอร์พอร์ต0และ1 และ ไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกันดังภาพด้านขวา![image](https://user-images.githubusercontent.com/80879365/112296432-7d176d80-8cc7-11eb-8ec1-c189472eef10.png)
 2. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 04_Input-Port`
