@@ -22,8 +22,8 @@
 7.รอจนกระทั่งรันโปรแกรมจบแล้ว ใช้คำสั่ง `pio device momitor` เพื่อดูผลผ่านคอมพิวเตอร์![image](https://user-images.githubusercontent.com/80879365/112289913-4cccd080-8cc1-11eb-91e0-1341668c3842.png)
 8. ได้ผลการทดลองการรันโปรแกรมเอ้าพุทดังนี้![image](https://user-images.githubusercontent.com/80879365/112291810-0d06e880-8cc3-11eb-9d11-d81c6cb88674.png)
 9. กดปุ่มรีเซ็ทสีแดงอีก1ครั้งเพื่อทำการทดลองร่วมกับดีเลย์![image](https://user-images.githubusercontent.com/80879365/112292338-93bbc580-8cc3-11eb-90c9-00a31d00e463.png)
-11. ถอดไมโครคอนโทรออกจากอะแดปเตอร์ นำออกมาเสีบยเข้ากับรีเลย์ ![image](https://user-images.githubusercontent.com/80879365/112292523-c06fdd00-8cc3-11eb-90f8-6a123afc2f53.png)
-12. อขั้วชาร์จเข้ารีเลย์เพื่อจ่ายไฟ![image](https://user-images.githubusercontent.com/80879365/112292964-2f4d3600-8cc4-11eb-9058-e96b9dcee0b3.png)
+11. ถอดไมโครคอนโทรออกจากอะแดปเตอร์ นำออกมาเสียบเข้ากับรีเลย์ ![image](https://user-images.githubusercontent.com/80879365/112292523-c06fdd00-8cc3-11eb-90f8-6a123afc2f53.png)
+12. ต่อขั้วชาร์จเข้ารีเลย์เพื่อจ่ายไฟ![image](https://user-images.githubusercontent.com/80879365/112292964-2f4d3600-8cc4-11eb-9058-e96b9dcee0b3.png)
 13. สังเกตผลที่ออกมาในจอคอมพิวเตอร์
 ## การบันทึกผลการทดลอง 
 * ได้ผลการทดลองการรันโปรแกรมเอ้าพุทดังนี้![image](https://user-images.githubusercontent.com/80879365/112291810-0d06e880-8cc3-11eb-9d11-d81c6cb88674.png)
