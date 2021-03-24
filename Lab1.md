@@ -10,7 +10,7 @@
 ## ศึกษาข้อมูลเพิ่มเติม
 * [ทำความรู้จัก ไมโครคอนโทรเลอร์ ESP_01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01.html)
 * [วีดีโอการทดลองแลป1](https://youtu.be/NLIUsWLEpmg)
-* [ตัวอย่างโปรแกรม](https://github.com/choompol-boonmee/lab63b/tree/master/examples)
+* [ตัวอย่างโปรแกรมที่1](https://github.com/choompol-boonmee/lab63b/tree/master/examples/01_Serial-Monitor)
 ## วิธีการทำการทดลอง
 1. ต่อ USB to serial port เข้ากับไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกัน ![image](https://user-images.githubusercontent.com/80879365/112276336-328bf600-8cb3-11eb-8958-5ffa2a7543dd.png)
 3. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 01_Serial_monitor`
