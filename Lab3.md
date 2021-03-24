@@ -10,9 +10,9 @@
 5. อะแดปเตอร์ ต่อ พอร์ต0และ1 แสดงผลเป็นLED 0 ขาว 1 เหลือง
 6. ตัวรีเลย์
 ## ศึกษาข้อมูลเบื้องต้น 
-[วีดีโอการทดลองแลป3.1](https://www.youtube.com/watch?v=CCnN1WJsXQY)
-[วีดีโอการทดลองแลป3.2](https://www.youtube.com/watch?v=6JnhaUILGuw)
-[ตัวอย่างโปรแกรมที่3](https://github.com/choompol-boonmee/lab63b/tree/master/examples/03_Output-Port)
+* [วีดีโอการทดลองแลป3.1](https://www.youtube.com/watch?v=CCnN1WJsXQY)
+* [วีดีโอการทดลองแลป3.2](https://www.youtube.com/watch?v=6JnhaUILGuw)
+* [ตัวอย่างโปรแกรมที่3](https://github.com/choompol-boonmee/lab63b/tree/master/examples/03_Output-Port)
 ## วิธีการทำการทดลอง 
 1. ต่อ USB to serial port เข้ากับอแดปเตอร์พอร์ต0และ1 และ ไมโครคอนโทรเลอร์ และคอมพิวเตอร์เข้าด้วยกันดังภาพด้านขวา![image](https://user-images.githubusercontent.com/80879365/112286578-09249780-8cbe-11eb-9a96-8933e3487f1f.png)
 2. เปิด command prompt ใช้คำสั่งเปิดตัวอย่าง `cd pattani` ตามด้วย `cd 03_Output-Port`
