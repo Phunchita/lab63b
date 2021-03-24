@@ -13,5 +13,6 @@
 ## วิธีการทดลอง
 1.ต่อ USB to serial port เข้ากับคอมพิวเตอร์เข้าด้วยกันดังภาพด้านขวา ![image]
 2.เลือกชื่อไวไฟและใส่รหัส![image](https://user-images.githubusercontent.com/80879365/112303783-45142880-8ccf-11eb-80c4-6e02c45a11a8.png)
-3.อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`![image](https://user-images.githubusercontent.com/80879365/112304289-e56a4d00-8ccf-11eb-9b4b-f388421bf71f.png)
-![image](https://user-images.githubusercontent.com/80879365/112304551-3417e700-8cd0-11eb-81d2-a2b0f4a48d52.png)
+3.อัพโหลดโปรแกรมตัวอย่างลงไมโครคอนโทรเลอร์ ด้วยคำสั่ง `pio run-t upload`
+4.เมื่อโปรแกรมกำลังรันให้กดปุ่มอัปโหลด สีดำที่บอร์ดค้างไว้ แล้วกดปุ่มสีแดงหนึ่งครั้งเพิ่อรีเซต![image](https://user-images.githubusercontent.com/80879365/112304289-e56a4d00-8ccf-11eb-9b4b-f388421bf71f.png)
+5.เข้าเว็ปเซอร์เวอร์ ![image](https://user-images.githubusercontent.com/80879365/112304551-3417e700-8cd0-11eb-81d2-a2b0f4a48d52.png)
